@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Mora / @eme-eleuce
-- 👀 I’m interested in Frontend DEV
-- 🌱 I’m currently learning React, Solidity
+- 👀 I’m interested in Frontend DEV / UI / UX
+- 🌱 I’m currently learning React, Solidity, Python 🧠
 - 📫 How to reach me: luis.iarmolen@gmail.com
 
 <!---
